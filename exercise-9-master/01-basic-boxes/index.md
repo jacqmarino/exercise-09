@@ -9,19 +9,15 @@
   <body>
     <h1>Working with Boxes!</h1>
     <p><small>Your font may be different.</small></p>
-
     <div id="box01">
       <p>Text!</p>
     </div>
-
     <div id="box02">
       <p>Text!</p>
     </div>
-
     <div id="box03">
       <p>Text!</p>
     </div>
-
     <div id="box04">
       <p>Text!</p>
     </div>
